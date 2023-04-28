@@ -8,7 +8,7 @@ The following frameworks and languages were used in the development of this proj
 
 - Java
 - Spring Boot
-- Hibernate 
+- lombok
 
 ## Data Flow
 
